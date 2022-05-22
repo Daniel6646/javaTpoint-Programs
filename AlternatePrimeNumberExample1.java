@@ -24,7 +24,7 @@ public class AlternatePrimeNumberExample1 {
 		if (flag == 0)
 			return 1;
 		else
-			return 0;
+			return 0;// can also use boolean return true or false
 	}
 
 //method for printing alternate prime numbers  
